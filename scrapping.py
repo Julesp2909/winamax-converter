@@ -350,3 +350,5 @@ def public_convert_rate(freebets):
 print(format_stake_tab(1000))
 
 pyperclip.copy(format_stake_tab(150))
+ 
+
